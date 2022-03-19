@@ -1,0 +1,13 @@
+/Users/dan/Projects/Cards/Cards/bin/Debug/netcoreapp3.1/Cards.deps.json
+/Users/dan/Projects/Cards/Cards/bin/Debug/netcoreapp3.1/Cards.runtimeconfig.json
+/Users/dan/Projects/Cards/Cards/bin/Debug/netcoreapp3.1/Cards.runtimeconfig.dev.json
+/Users/dan/Projects/Cards/Cards/bin/Debug/netcoreapp3.1/Cards.dll
+/Users/dan/Projects/Cards/Cards/bin/Debug/netcoreapp3.1/Cards.pdb
+/Users/dan/Projects/Cards/Cards/obj/Debug/netcoreapp3.1/Cards.csproj.AssemblyReference.cache
+/Users/dan/Projects/Cards/Cards/obj/Debug/netcoreapp3.1/Cards.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dan/Projects/Cards/Cards/obj/Debug/netcoreapp3.1/Cards.AssemblyInfoInputs.cache
+/Users/dan/Projects/Cards/Cards/obj/Debug/netcoreapp3.1/Cards.AssemblyInfo.cs
+/Users/dan/Projects/Cards/Cards/obj/Debug/netcoreapp3.1/Cards.csproj.CoreCompileInputs.cache
+/Users/dan/Projects/Cards/Cards/obj/Debug/netcoreapp3.1/Cards.dll
+/Users/dan/Projects/Cards/Cards/obj/Debug/netcoreapp3.1/Cards.pdb
+/Users/dan/Projects/Cards/Cards/obj/Debug/netcoreapp3.1/Cards.genruntimeconfig.cache
